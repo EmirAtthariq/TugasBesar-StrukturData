@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1733364089 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\coding\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1733364221 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\coding\tubes\tubes.cpp
+	<iostream>
+	"Tubes.h"
+
+1733363924 c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\coding\tubes\tubes.h
+
+1733364089 source:c:\users\yudis akbar\desktop\tubes\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1733505941 c:\users\yudis akbar\desktop\tubes\tubes\tubes.h
+
+1733586135 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\progress yudis\tubes\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1733587303 c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\progress yudis\tubes\tubes\tubes.h
+
+1733586135 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\progress gabungan\tubes_insyaallahfix\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1734524656 c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\progress gabungan\tubes_insyaallahfix\tubes.h
+
+1734525485 source:c:\users\legion\documents\tugas telyu\2024\semester ganjil 2024\struktur data\tubes\progress gabungan\tubes_insyaallahfix\tubes.cpp
+	<iostream>
+	"Tubes.h"
+
